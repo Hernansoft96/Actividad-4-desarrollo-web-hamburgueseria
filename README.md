@@ -69,7 +69,9 @@ Este proyecto fue desarrollado en equipo para fortalecer nuestras habilidades en
 🙋‍♂️ Autor
 
 Hernán Ricardo Loaiza Doncel
+
 Estudiante de Ingeniería de Software
+
 Corporación Universitaria Iberoamericana
 
 Licencia
